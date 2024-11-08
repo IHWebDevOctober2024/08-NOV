@@ -1,0 +1,24 @@
+.card1, .card2, .card3 {
+  background: linear-gradient(288deg, #f8a3c9 0%, #5f30f8 87.67%);
+  width: 20rem;
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem;
+  box-sizing: border-box;
+  
+  h4 {
+    font-size: 2rem;
+  }
+}
+
+.card2 {
+  background: linear-gradient(288deg, #f16ba7 0%, #3800eb 87.67%);
+}
+.card3 {
+  background: linear-gradient(288deg, #f20a72 0%, #23038c 87.67%);
+}
+
+

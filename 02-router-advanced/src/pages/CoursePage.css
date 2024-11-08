@@ -1,0 +1,36 @@
+.course-container {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 3rem;
+  height: auto;
+  h2 {
+    font-size: 3rem;
+  }
+}
+
+.course-ul {
+  display: flex;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+.course-list {
+  width: 12rem;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  background-color: rgba(240, 248, 255, 0.89);
+  color: black;
+  list-style: none;
+  justify-content: space-between;
+  gap: 2rem;
+  p {
+    margin: 0;
+  }
+  h5 {
+    margin: 0 0 1rem 0;
+    /* margin-bottom: 1rem; */
+    font-size: 1.5rem;
+  }
+}

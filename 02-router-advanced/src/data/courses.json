@@ -1,0 +1,622 @@
+[
+  {
+    "_id": "1",
+    "city": "New York",
+    "description": "This is a comprehensive course designed to provide students with a deep understanding of UX principles and practices. The curriculum covers user research, design thinking, and usability testing.",
+    "courses": [
+      {
+        "name": "UX",
+        "teacher": "Alice Johnson",
+        "manager": "John Doe",
+        "dog": "Buddy"
+      },
+      {
+        "name": "Web",
+        "teacher": "Bob Smith",
+        "manager": "Jane Doe",
+        "dog": "Max"
+      },
+      {
+        "name": "Data",
+        "teacher": "Charlie Brown",
+        "manager": "Jim Beam",
+        "dog": "Bella"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "David Wilson",
+        "manager": "Jack Daniels",
+        "dog": "Rocky"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "city": "San Francisco",
+    "description": "This course offers an in-depth exploration of web development, covering both front-end and back-end technologies. Students will learn HTML, CSS, JavaScript, and server-side programming.",
+    "courses": [
+      {
+        "name": "UX",
+        "teacher": "Emily Davis",
+        "manager": "Sarah Connor",
+        "dog": "Luna"
+      },
+      {
+        "name": "Web",
+        "teacher": "Frank Miller",
+        "manager": "Kyle Reese",
+        "dog": "Duke"
+      },
+      {
+        "name": "Data",
+        "teacher": "Grace Lee",
+        "manager": "Ellen Ripley",
+        "dog": "Molly"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Henry Adams",
+        "manager": "John Connor",
+        "dog": "Zeus"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "city": "Los Angeles",
+    "description": "This course focuses on advanced UX design techniques, including user interface design, prototyping, and user testing.",
+    "courses": [
+      {
+        "name": "UX",
+        "teacher": "Hannah White",
+        "manager": "Michael Scott",
+        "dog": "Rex"
+      },
+      {
+        "name": "Web",
+        "teacher": "Ian Black",
+        "manager": "Dwight Schrute",
+        "dog": "Oscar"
+      },
+      {
+        "name": "Data",
+        "teacher": "Jack Green",
+        "manager": "Jim Halpert",
+        "dog": "Toby"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Karen Blue",
+        "manager": "Pam Beesly",
+        "dog": "Stanley"
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "city": "Chicago",
+    "description": "This course provides a thorough understanding of web development frameworks and libraries, including React, Angular, and Vue.js.",
+    "courses": [
+      {
+        "name": "UX",
+        "teacher": "Laura Red",
+        "manager": "Andy Bernard",
+        "dog": "Kevin"
+      },
+      {
+        "name": "Web",
+        "teacher": "Mike Brown",
+        "manager": "Angela Martin",
+        "dog": "Oscar"
+      },
+      {
+        "name": "Data",
+        "teacher": "Nina Yellow",
+        "manager": "Creed Bratton",
+        "dog": "Meredith"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Oliver Purple",
+        "manager": "Phyllis Vance",
+        "dog": "Kelly"
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "city": "Miami",
+    "description": "This course covers the fundamentals of data science, including data analysis, visualization, and machine learning.",
+    "courses": [
+      {
+        "name": "UX",
+        "teacher": "Paul White",
+        "manager": "Stanley Hudson",
+        "dog": "Ryan"
+      },
+      {
+        "name": "Web",
+        "teacher": "Quincy Black",
+        "manager": "Darryl Philbin",
+        "dog": "Erin"
+      },
+      {
+        "name": "Data",
+        "teacher": "Rachel Green",
+        "manager": "Oscar Martinez",
+        "dog": "Gabe"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Steve Blue",
+        "manager": "Kelly Kapoor",
+        "dog": "Holly"
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "city": "Seattle",
+    "description": "This course delves into cybersecurity principles, including network security, cryptography, and ethical hacking.",
+    "courses": [
+      {
+        "name": "UX",
+        "teacher": "Tom White",
+        "manager": "Jan Levinson",
+        "dog": "David"
+      },
+      {
+        "name": "Web",
+        "teacher": "Uma Black",
+        "manager": "Roy Anderson",
+        "dog": "Karen"
+      },
+      {
+        "name": "Data",
+        "teacher": "Victor Green",
+        "manager": "Holly Flax",
+        "dog": "Charles"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Wendy Blue",
+        "manager": "Toby Flenderson",
+        "dog": "Jo"
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "city": "Boston",
+    "description": "This course provides an introduction to UX design, covering user research, wireframing, and prototyping.",
+    "courses": [
+      {
+        "name": "Xander White",
+        "teacher": "David Wallace",
+        "manager": "Clark",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Yara Black",
+        "manager": "Robert California",
+        "dog": "Pete"
+      },
+      {
+        "name": "Data",
+        "teacher": "Zane Green",
+        "manager": "Nellie Bertram",
+        "dog": "Nate"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Amy Blue",
+        "manager": "Deangelo Vickers",
+        "dog": "Jordan"
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "city": "Austin",
+    "description": "This course covers advanced web development topics, including server-side programming, databases, and APIs.",
+    "courses": [
+      {
+        "name": "Brian White",
+        "teacher": "Jo Bennett",
+        "manager": "Danny",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Cathy Black",
+        "manager": "Gabe Lewis",
+        "dog": "Val"
+      },
+      {
+        "name": "Data",
+        "teacher": "Derek Green",
+        "manager": "Clark Green",
+        "dog": "Pete"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Eve Blue",
+        "manager": "Nate Nickerson",
+        "dog": "Jordan"
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "city": "Denver",
+    "description": "This course provides a comprehensive overview of data science, including data analysis, visualization, and machine learning.",
+    "courses": [
+      {
+        "name": "Frank White",
+        "teacher": "David Wallace",
+        "manager": "Clark",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Grace Black",
+        "manager": "Robert California",
+        "dog": "Pete"
+      },
+      {
+        "name": "Data",
+        "teacher": "Hank Green",
+        "manager": "Nellie Bertram",
+        "dog": "Nate"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Ivy Blue",
+        "manager": "Deangelo Vickers",
+        "dog": "Jordan"
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "city": "Dallas",
+    "description": "This course focuses on cybersecurity principles, including network security, cryptography, and ethical hacking.",
+    "courses": [
+      {
+        "name": "Jack White",
+        "teacher": "Jan Levinson",
+        "manager": "David",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Kara Black",
+        "manager": "Roy Anderson",
+        "dog": "Karen"
+      },
+      {
+        "name": "Data",
+        "teacher": "Liam Green",
+        "manager": "Holly Flax",
+        "dog": "Charles"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Mia Blue",
+        "manager": "Toby Flenderson",
+        "dog": "Jo"
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "city": "Atlanta",
+    "description": "This course provides an introduction to UX design, covering user research, wireframing, and prototyping.",
+    "courses": [
+      {
+        "name": "Nina White",
+        "teacher": "David Wallace",
+        "manager": "Clark",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Oscar Black",
+        "manager": "Robert California",
+        "dog": "Pete"
+      },
+      {
+        "name": "Data",
+        "teacher": "Paul Green",
+        "manager": "Nellie Bertram",
+        "dog": "Nate"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Quincy Blue",
+        "manager": "Deangelo Vickers",
+        "dog": "Jordan"
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "city": "Phoenix",
+    "description": "This course covers advanced web development topics, including server-side programming, databases, and APIs.",
+    "courses": [
+      {
+        "name": "Rachel White",
+        "teacher": "Jo Bennett",
+        "manager": "Danny",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Steve Black",
+        "manager": "Gabe Lewis",
+        "dog": "Val"
+      },
+      {
+        "name": "Data",
+        "teacher": "Tom Green",
+        "manager": "Clark Green",
+        "dog": "Pete"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Uma Blue",
+        "manager": "Nate Nickerson",
+        "dog": "Jordan"
+      }
+    ]
+  },
+  {
+    "_id": "13",
+    "city": "Philadelphia",
+    "description": "This course provides a comprehensive overview of data science, including data analysis, visualization, and machine learning.",
+    "courses": [
+      {
+        "name": "Victor White",
+        "teacher": "David Wallace",
+        "manager": "Clark",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Wendy Black",
+        "manager": "Robert California",
+        "dog": "Pete"
+      },
+      {
+        "name": "Data",
+        "teacher": "Xander Green",
+        "manager": "Nellie Bertram",
+        "dog": "Nate"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Yara Blue",
+        "manager": "Deangelo Vickers",
+        "dog": "Jordan"
+      }
+    ]
+  },
+  {
+    "_id": "14",
+    "city": "San Diego",
+    "description": "This course focuses on cybersecurity principles, including network security, cryptography, and ethical hacking.",
+    "courses": [
+      {
+        "name": "Zane White",
+        "teacher": "Jan Levinson",
+        "manager": "David",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Amy Black",
+        "manager": "Roy Anderson",
+        "dog": "Karen"
+      },
+      {
+        "name": "Data",
+        "teacher": "Brian Green",
+        "manager": "Holly Flax",
+        "dog": "Charles"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Cathy Blue",
+        "manager": "Toby Flenderson",
+        "dog": "Jo"
+      }
+    ]
+  },
+  {
+    "_id": "15",
+    "city": "San Jose",
+    "description": "This course provides an introduction to UX design, covering user research, wireframing, and prototyping.",
+    "courses": [
+      {
+        "name": "Derek White",
+        "teacher": "David Wallace",
+        "manager": "Clark",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Eve Black",
+        "manager": "Robert California",
+        "dog": "Pete"
+      },
+      {
+        "name": "Data",
+        "teacher": "Frank Green",
+        "manager": "Nellie Bertram",
+        "dog": "Nate"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Grace Blue",
+        "manager": "Deangelo Vickers",
+        "dog": "Jordan"
+      }
+    ]
+  },
+  {
+    "_id": "16",
+    "city": "Las Vegas",
+    "description": "This course covers advanced web development topics, including server-side programming, databases, and APIs.",
+    "courses": [
+      {
+        "name": "Hank White",
+        "teacher": "Jo Bennett",
+        "manager": "Danny",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Ivy Black",
+        "manager": "Gabe Lewis",
+        "dog": "Val"
+      },
+      {
+        "name": "Data",
+        "teacher": "Jack Green",
+        "manager": "Clark Green",
+        "dog": "Pete"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Karen Blue",
+        "manager": "Nate Nickerson",
+        "dog": "Jordan"
+      }
+    ]
+  },
+  {
+    "_id": "17",
+    "city": "Orlando",
+    "description": "This course provides a comprehensive overview of data science, including data analysis, visualization, and machine learning.",
+    "courses": [
+      {
+        "name": "Liam White",
+        "teacher": "David Wallace",
+        "manager": "Clark",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Mia Black",
+        "manager": "Robert California",
+        "dog": "Pete"
+      },
+      {
+        "name": "Data",
+        "teacher": "Nina Green",
+        "manager": "Nellie Bertram",
+        "dog": "Nate"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Oscar Blue",
+        "manager": "Deangelo Vickers",
+        "dog": "Jordan"
+      }
+    ]
+  },
+  {
+    "_id": "18",
+    "city": "Portland",
+    "description": "This course focuses on cybersecurity principles, including network security, cryptography, and ethical hacking.",
+    "courses": [
+      {
+        "name": "Paul White",
+        "teacher": "Jan Levinson",
+        "manager": "David",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Quincy Black",
+        "manager": "Roy Anderson",
+        "dog": "Karen"
+      },
+      {
+        "name": "Data",
+        "teacher": "Rachel Green",
+        "manager": "Holly Flax",
+        "dog": "Charles"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Steve Blue",
+        "manager": "Toby Flenderson",
+        "dog": "Jo"
+      }
+    ]
+  },
+  {
+    "_id": "19",
+    "city": "Charlotte",
+    "description": "This course provides an introduction to UX design, covering user research, wireframing, and prototyping.",
+    "courses": [
+      {
+        "name": "Tom White",
+        "teacher": "David Wallace",
+        "manager": "Clark",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Uma Black",
+        "manager": "Robert California",
+        "dog": "Pete"
+      },
+      {
+        "name": "Data",
+        "teacher": "Victor Green",
+        "manager": "Nellie Bertram",
+        "dog": "Nate"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Wendy Blue",
+        "manager": "Deangelo Vickers",
+        "dog": "Jordan"
+      }
+    ]
+  },
+  {
+    "_id": "20",
+    "city": "Houston",
+    "description": "This course covers advanced web development topics, including server-side programming, databases, and APIs.",
+    "courses": [
+      {
+        "name": "Xander White",
+        "teacher": "Jo Bennett",
+        "manager": "Danny",
+        "dog": "UX"
+      },
+      {
+        "name": "Web",
+        "teacher": "Yara Black",
+        "manager": "Gabe Lewis",
+        "dog": "Val"
+      },
+      {
+        "name": "Data",
+        "teacher": "Zane Green",
+        "manager": "Clark Green",
+        "dog": "Pete"
+      },
+      {
+        "name": "Cybersecurity",
+        "teacher": "Amy Blue",
+        "manager": "Nate Nickerson",
+        "dog": "Jordan"
+      }
+    ]
+  }
+]
